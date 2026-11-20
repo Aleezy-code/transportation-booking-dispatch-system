@@ -260,7 +260,7 @@ Potential improvements for future development:
 
 Developed and customized as a transportation technology project.
 
-**GitHub:** [YOUR-GITHUB-PROFILE](https://github.com/YOUR-USERNAME)
+**GitHub:** (https://github.com/Aleezy-code/transportation-booking-dispatch-system)
 
 ## 🤝 11 — 👩‍💻 PROJECT MAINTAINER
 
@@ -268,7 +268,7 @@ Aleeza Kazmi
 
 Transportation Technology | Web Development | Project Customization
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/Aleezy-code
 
 <p align="center">
   <b>🚘 SMART RIDES. SEAMLESS JOURNEYS.</b>
