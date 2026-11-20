@@ -262,20 +262,19 @@ Developed and customized as a transportation technology project.
 
 **GitHub:** [YOUR-GITHUB-PROFILE](https://github.com/YOUR-USERNAME)
 
-## 🤝 11 — ORIGINAL PROJECT & CREDITS
+## 🤝 11 — 👩‍💻 PROJECT MAINTAINER
 
-This repository is based on the open-source Rydex project by its original developer.
+Aleeza Kazmi
 
-- **Original Developer:** [sujalrajapure](https://github.com/sujalrajapure)
-- **Original Repository:** [Rydex-Demo](https://github.com/sujalrajapure/Rydex-Demo)
-- **Original Demo:** [rydex-demo.vercel.app](https://rydex-demo.vercel.app)
+Transportation Technology | Web Development | Project Customization
 
-Original project attribution and applicable MIT license terms are retained. Additional modifications should be documented separately.
-
----
+GitHub: https://github.com/YOUR-USERNAME
 
 <p align="center">
-  <b>🚘 RYDEX — REDEFINING THE WAY WE MOVE.</b>
+  <b>🚘 SMART RIDES. SEAMLESS JOURNEYS.</b>
+  <br/>
+  <i>Transforming Transportation Through Technology.</i>
+</p>
   <br/><br/>
   <i>Smart Transportation. Connected Experiences. Better Journeys.</i>
   <br/><br/>
